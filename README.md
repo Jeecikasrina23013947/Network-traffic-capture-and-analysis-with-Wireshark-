@@ -1,8 +1,10 @@
 # Network-traffic-capture-and-analysis-with-Wireshark 
+# NAME:JEEICKASRINA M
+# REG NO:212223100015
 ## AIM:
 To capture and analyze network traffic using Wireshark in order to observe protocols, packets, and potential anomalies.
 ## Requirements:
-- **Hardware:**
+- **Hardware:** 
     - Computer with internet access
     - Network adapter (Ethernet/Wi-Fi)
 - **Software:**
